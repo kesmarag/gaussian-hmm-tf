@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: kesmarag-gaussian-hmm-tf
+Version: 0.1.1
+Summary: An implementation of the Gaussian Hidden Markov Model on top of TensorFlow
+Home-page: https://github.com/kesmarag/gaussian-hmm-tf
+Author: Costas Smaragdakis
+Author-email: kesmarag@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
