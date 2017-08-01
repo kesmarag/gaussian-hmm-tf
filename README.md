@@ -75,7 +75,7 @@ pip install https://github.com/kesmarag/gaussian-hmm-tf/tree/master/dist/kesmara
 import numpy as np
 from kesmarag.ghmm import GaussianHMM
 
-# create a random data set with 3 time series each.
+# create a random data set with 3 time series.
 data = np.random.randn(3, 100, 2)
 
 # create a model with 10 hidden states.
