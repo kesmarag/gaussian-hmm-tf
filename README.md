@@ -68,7 +68,7 @@ Generate simulated data from the model.
 
 ## instalation using pip:
 
-pip install https://github.com/kesmarag/gaussian-hmm-tf/tree/master/dist/kesmarag-gaussian-hmm-tf-0.1.1.tar.gz
+pip install git+https://github.com/kesmarag/gaussian-hmm-tf.git
 
 ## usage
 ```python
